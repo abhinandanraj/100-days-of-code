@@ -7,5 +7,6 @@
 ### Day 3 : Project Name : [Treasure Island]()
 ### Day 4 : Project Name : [Rock Paper Scissors]()
 ### Day 5 : Project Name : []()
+### Day 6 : Project Name : []()
 ---
 
